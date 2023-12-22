@@ -31,7 +31,7 @@ Users should be able to:
 - Frontend Mentor - [Frontend mentor profile](https://www.frontendmentor.io/profile/CSS-Viki)
 - X - [viki wainaina](https://twitter.com/vykiddeh_)
 
-- Live Site URL: [Live site](https://your-live-site-url.com)
+- Live Site URL: [Live site](https://blog-preview-card.onrender.com)
 
 Coded with ❤️ by [viki wainaina](https://twitter.com/vykiddeh_)
 
